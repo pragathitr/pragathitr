@@ -4,8 +4,8 @@ My work sits at the intersection of AI, workflow design, and usability. I build 
 
 ---
 
-## What I’m doing now
-- 💼 Previously SWE at JPMorgan Chase:
+## A little about me:
+- 💼 Previously SWE at JPMorgan Chase
 - 🎓 Currently, Master’s at NYU, Technology & Management -> sharpening my product instincts while shipping ML pipelines 
 - 🤖 Pivoting into ML Engineering and AI-centric SWE  
 
