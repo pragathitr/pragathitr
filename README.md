@@ -1,43 +1,34 @@
-# Hi, I’m Pragathi (Praga) 👋
-**AI Product & Applied AI Engineer** in NYC.  
-My work sits at the intersection of AI, workflow design, and usability. I build agentic systems that replace slow manual steps with something smoother.
+# Hi, I’m Pragathi (Praga) 👋  
+**AI Product Engineer / Applied AI Engineer** in NYC.  
+I build AI-powered systems that turn messy, manual workflows into clean, usable products. My work lives at the intersection of **LLMs, backend systems, and product thinking**.
 
 ---
 
-## A little about me:
-- 💼 Previously SWE at JPMorgan Chase
-- 🎓 Currently, Master’s at NYU, Technology & Management -> sharpening my product instincts while shipping ML pipelines 
-- 🤖 Pivoting into ML Engineering and AI-centric SWE  
+## About me
+- 💼 Former Software Engineer at **JPMorgan Chase**, building production payment systems  
+- 🎓 MS at **NYU (Technology Management)**, focused on AI, systems, and product design  
+- 🤖 Now building **agentic workflows and applied ML systems** that ship, not just demo  
+
+I like problems where the hard part isn’t the model — it’s making the system reliable, usable, and actually helpful.
 
 ---
-<!--
-## Featured projects
-- **Mood2Playlist** — Agent DJ that turns a vibe prompt into a real Spotify playlist using FastAPI and embeddings  
-- **StickyPet** — Desktop habit tracker with a tiny animated cat, JSON persistence, zero fuss  
-- **NYC Citizen Noise Data** — Validation framework for crowd data that cities can trust  
-- **AR Restaurant Cards** — 3D dish previews for menus with Unity  
-- **Voice-Assisted Gym Coach** — Pose tracking plus voice guidance for form feedback
 
-> Repos are rolling out. Want a demo or a quick Loom? Ping me.
-
----
---->
-
-## Skills:
+## Skills
 **Languages:** Python, Java, SQL, JavaScript  
-**ML/AI:** scikit-learn, PyTorch basics, CLIP or VLM embeddings, data pipelines  
-**Backend:** FastAPI, Flask, REST, auth, testing  
+**AI / ML:** scikit-learn, PyTorch (basics), embeddings (CLIP/VLM), data pipelines, RAG  
+**Backend:** FastAPI, Flask, REST APIs, auth, testing  
 **Frontend:** React, Tailwind, shadcn/ui  
-**Data/Cloud:** AWS basics, Postgres, NoSQL, Tableau  
-**Product:** user interviews, experiment design, KPI wiring, docs people read
+**Data / Cloud:** AWS (basics), Postgres, NoSQL, Tableau  
+**Product:** user interviews, experiment design, KPI wiring, documentation  
 
 ---
 
-## What I’m learning next
-- Production ML patterns  
-- Retrieval, compact DSLM ideas, multimodal ranking  
-- Systems design for tiny teams that move fast
-
+## What I’m focused on now
+- Agentic systems for real workflows  
+- Retrieval + compact model patterns  
+- Building a **local RAG system for codebase documentation**  
+- Building a **semantic book recommendation engine** using scraped Goodreads reviews and Google Books metadata, with chunking + embeddings for vibe-based search  
+- System design for small teams shipping fast  
 ---
 
 ## Writing and talks 
