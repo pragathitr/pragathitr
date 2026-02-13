@@ -7,9 +7,9 @@ I build AI-powered systems that turn messy, manual workflows into clean, usable 
 ## About me
 - 💼 Former Software Engineer at **JPMorgan Chase**, building production payment systems  
 - 🎓 MS at **NYU (Technology Management)**, focused on AI, systems, and product design  
-- 🤖 Now building **agentic workflows and applied ML systems** that ship, not just demo  
+- 🤖 Now building **agentic workflows and applied AI systems** that are useful  
 
-I like problems where the hard part isn’t the model — it’s making the system reliable, usable, and actually helpful.
+I like problems where the hard part isn’t the model but about making the system reliable, helpful  and enjoyable to use.
 
 ---
 
@@ -40,9 +40,9 @@ I like problems where the hard part isn’t the model — it’s making the syst
 ---
 
 ## Fun bits
-- 🍳 I enjoy cooking, especially comfort food with a twist  
-- 🏋️‍♀️ Fitness enthusiast
-- 🎤 I sing, sometimes code reviews get a soundtrack  
+- 🍳 I enjoy cooking  
+- 🏋️‍♀️ Lil bit of a fitness enthusiast
+- 🎤 I sing, sometimes.  
 - 📚 I love to read 
 
 ---
